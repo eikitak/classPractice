@@ -10,7 +10,8 @@
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: #fff;
+    margin: 0 auto;
 }
 
 img {
