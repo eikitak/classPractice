@@ -8,7 +8,7 @@
             { image: 'images/rekishicard.png', namae: 'Honda', age: 48, likes: 3, desc: 'このまま年賀全部キミに届けて全部年賀for you納めたlove you love youキミに届けこのまま年賀全部キミに届けて全部年賀for you納めたlove you love youキミに届け' },
             { image: 'images/cropYOSX9760.jpg', namae: 'Kawasaki', age: 32, likes: 1, desc: '吾輩は猫である名前はまだないどこで生まれたかトンと見当がつかぬなんでも薄暗いじめじめしたところでニャーニャー泣いていたことだけは覚えて記憶している吾輩はここで初めて人間というものを見た' },
             { image: 'images/cropIMGL5336.jpg', namae: 'Suzuki', age: 28, likes: 15, desc: 'はじめましてこんにちはご訪問ありがとうございます男の娘ですけどよろしくお願いします！はじめましてこんにちはご訪問ありがとうございます男の娘ですけどよろしくお願いします！' },
-            { image: 'images/G-otacard.png', namae: 'Meguro', age: 67, likes: 18, desc: '燃え上れ萌え上がれ燃えあがれガンガル君よ走れ正義の怒りをぶつけろガンガル燃え上れ萌え上がれ燃えあがれガンガル君よ走れ正義の怒りをぶつけろガンガル' },
+            { image: 'images/G-otacard.png', namae: 'Meguro', age: 67, likes: 18, desc: 'はじめまして、ニュータイプです。なんだろう、感じる……君も、ニュータイプなんだね？はじめまして、ニュータイプです。なんだろう、感じる……君も、ニュータイプなんだね？' },
             { image: 'images/ojisan06.png', namae: 'Motoguchi', age: 48, likes: 1, desc: 'はじめまして！(((o(*ﾟ▽ﾟ*)o)))訪問ありがとう(≧▽≦)僕と君の出会いに乾杯🍻なんちゃって(n*´ω`*n)はじめまして！(((o(*ﾟ▽ﾟ*)o)))訪問ありがとう(≧▽≦)僕と君の出会いに乾杯🍻なんちゃって(n*´ω`*n)' }
         ];
 
